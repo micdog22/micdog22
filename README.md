@@ -3,6 +3,15 @@
   <h1>Michael Douglas (MicDog)</h1>
   <p>Desenvolvedor full-stack • Fundador do KeyAdmin • Sistemas Windows, APIs e automação</p>
 
+  <!-- typing animation -->
+  <picture>
+    <source srcset="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+automa%C3%A7%C3%A3o;Drivers+em+C%2FC%2B%2B%2C+spoofer+e+otimizadores+para+Windows;SaaS+com+Python%2FFastAPI+e+PHP%2FLaravel;Integra%C3%A7%C3%B5es+com+marketplaces%2C+n8n+e+servi%C3%A7os+web" />
+    <img alt="headline animada"
+         src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+automa%C3%A7%C3%A3o" />
+  </picture>
+
+  <br/>
+
   <a href="https://micdog.com.br">
     <img alt="Website" src="https://img.shields.io/badge/Website-micdog.com.br-111827?style=for-the-badge">
   </a>
@@ -97,11 +106,11 @@ MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, MongoDB.
        alt="Top Languages" />
 </p>
 
-<!-- Streak (markdown simples + cache buster; clica abre em outra aba) -->
+<!-- Streak (funciona no README; clique abre em nova aba) -->
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=micdog22&theme=tokyonight">
     <img
-      src="https://streak-stats.demolab.com?user=micdog22&theme=tokyonight&hide_border=true&card_width=560&v=2"
+      src="https://streak-stats.demolab.com?user=micdog22&theme=tokyonight&hide_border=true&card_width=560&v=3"
       alt="GitHub Streak"
     />
   </a>
@@ -116,8 +125,7 @@ MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, MongoDB.
 ---
 
 ## Cobrinha de contribuições
-
-<!-- Estes SVGs são gerados pelo workflow .github/workflows/snake.yml -->
+<!-- SVGs gerados pelo workflow .github/workflows/snake.yml -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
