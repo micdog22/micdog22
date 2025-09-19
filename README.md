@@ -106,16 +106,18 @@ MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, MongoDB.
        alt="Top Languages" />
 </p>
 
+<!-- Streak self-hosted (no branch output) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/micdog22/micdog22/main/assets/streak-dark.png" />
+            srcset="https://raw.githubusercontent.com/micdog22/micdog22/output/streak-dark.png" />
     <img
-      src="https://raw.githubusercontent.com/micdog22/micdog22/main/assets/streak-light.png"
+      src="https://raw.githubusercontent.com/micdog22/micdog22/output/streak-light.png"
       alt="GitHub Streak"
     />
   </picture>
 </p>
+
 
 <p align="center">
   <img height="120"
