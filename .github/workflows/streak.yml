@@ -1,0 +1,42 @@
+name: Generate streak images
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"      # atualiza a cada 12h
+  workflow_dispatch:
+  push:
+    branches: [ "main", "master" ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare dist
+        run: mkdir -p dist
+
+      # DARK
+      - name: Fetch dark streak (PNG)
+        run: |
+          curl -sL "https://streak-stats.demolab.com?user=micdog22&theme=tokyonight&hide_border=true&type=png&card_width=560" \
+          -o dist/streak-dark.png
+
+      # LIGHT
+      - name: Fetch light streak (PNG)
+        run: |
+          curl -sL "https://streak-stats.demolab.com?user=micdog22&hide_border=true&type=png&card_width=560" \
+          -o dist/streak-light.png
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
