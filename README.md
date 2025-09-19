@@ -18,6 +18,9 @@
   <a href="mailto:micdogmel@gmail.com">
     <img alt="E-mail" src="https://img.shields.io/badge/Contato-micdogmel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://keyadmin.online">
+    <img alt="KeyAdmin" src="https://img.shields.io/badge/KeyAdmin-keyadmin.online-0f766e?style=for-the-badge">
+  </a>
 </div>
 
 ---
@@ -40,7 +43,7 @@ Desenvolvedor full-stack com atuação em back-end, desktop/Windows e automaçõ
 ---
 
 ## KeyAdmin
-Fundador do **KeyAdmin**, plataforma de licenças e ativação para softwares.
+Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e ativação para softwares.
 - Geração, ativação, validação, reset de HWID e banimento.
 - API autenticada por `cliente_hash` e `api_key`.
 - Painel web para gestão de softwares, chaves e relatórios.
@@ -131,4 +134,5 @@ MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, MongoDB.
 
 ## Contato
 Site: https://micdog.com.br  
+KeyAdmin: https://keyadmin.online  
 E-mail: micdogmel@gmail.com
