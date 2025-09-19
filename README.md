@@ -3,15 +3,6 @@
   <h1>Michael Douglas (MicDog)</h1>
   <p>Desenvolvedor full-stack • Fundador do KeyAdmin • Sistemas Windows, APIs e automação</p>
 
-  <!-- typing com fallback -->
-  <picture>
-    <source srcset="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+automa%C3%A7%C3%A3o;Drivers+em+C%2FC%2B%2B%2C+spoofer+e+otimizadores+para+Windows;SaaS+com+Python%2FFastAPI+e+PHP%2FLaravel;Integra%C3%A7%C3%B5es+com+marketplaces%2C+bots+e+n8n" />
-    <img alt="headline animada"
-         src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+automa%C3%A7%C3%A3o" />
-  </picture>
-
-  <br/>
-
   <a href="https://micdog.com.br">
     <img alt="Website" src="https://img.shields.io/badge/Website-micdog.com.br-111827?style=for-the-badge">
   </a>
@@ -29,6 +20,7 @@
 - [Stack e ferramentas](#stack-e-ferramentas)
 - [Projetos em destaque](#projetos-em-destaque)
 - [Estatísticas](#estatísticas)
+- [Cobrinha de contribuições](#cobrinha-de-contribuições)
 - [Contato](#contato)
 
 ---
@@ -51,10 +43,10 @@ Fundador do **KeyAdmin**, plataforma de licenças e ativação para softwares.
 - **Windows / baixo nível:** utilitários e **drivers em C/C++**, WMI/WinHTTP, automações e loaders.
 - **Performance:** **spoofer** e **otimizadores** com foco em jogos.
 - **Segurança e licenciamento:** KeyAdmin/KeyAuth, proteção anti-abuso.
-- **Web & SaaS:** APIs REST/JSON, filas, webhooks, autenticação, dashboards.
+- **Web & SaaS:** APIs REST/JSON, filas, webhooks, autenticação e dashboards.
 - **Automação e integrações:** **n8n**, PM2, systemd, CI/CD básico.
 - **E-commerce:** conectores para marketplaces (OAuth, tokens, estoque/anúncios).
-- **Dados:** modelagem e acesso a bancos relacionais e não relacionais.
+- **Dados:** modelagem e acesso a bancos relacionais e não relacionais (SQL e NoSQL).
 
 ---
 
@@ -96,35 +88,46 @@ MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, MongoDB.
 
 ## Estatísticas
 
-<div align="center">
-
-<img height="160"
-     src="https://github-readme-stats.vercel.app/api?username=micdog22&show_icons=true&theme=tokyonight&count_private=true"
-     alt="GitHub Stats" />
-<img height="160"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=micdog22&layout=compact&theme=tokyonight&hide=css,scss,cmake&langs_count=8"
-     alt="Top Languages" />
-
-<!-- Streak com dois hosts e PNG (evita quebra) -->
-<br/>
-<picture>
-  <source srcset="https://streak-stats.demolab.com?user=micdog22&theme=tokyonight&hide_border=true&type=png&cache_seconds=86400" />
+<p align="center">
   <img height="160"
-       src="https://github-readme-streak-stats.herokuapp.com?user=micdog22&theme=tokyonight&hide_border=true&type=png&cache_seconds=86400"
-       alt="GitHub Streak" />
-</picture>
+       src="https://github-readme-stats.vercel.app/api?username=micdog22&show_icons=true&theme=tokyonight&count_private=true"
+       alt="GitHub Stats" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=micdog22&layout=compact&theme=tokyonight&hide=css,scss,cmake&langs_count=8"
+       alt="Top Languages" />
+</p>
 
-<!-- Link de fallback clicável -->
-<br/>
-<a href="https://streak-stats.demolab.com?user=micdog22&theme=tokyonight">Abrir streak em nova aba</a>
+<!-- Streak (markdown simples + cache buster; clica abre em outra aba) -->
+<p align="center">
+  <a href="https://streak-stats.demolab.com?user=micdog22&theme=tokyonight">
+    <img
+      src="https://streak-stats.demolab.com?user=micdog22&theme=tokyonight&hide_border=true&card_width=560&v=2"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
-<!-- Trophies -->
-<br/>
-<img height="120"
-     src="https://github-profile-trophy.vercel.app/?username=micdog22&theme=onedark&row=1&column=6&margin-w=10&margin-h=10"
-     alt="GitHub Profile Trophies" />
+<p align="center">
+  <img height="120"
+       src="https://github-profile-trophy.vercel.app/?username=micdog22&theme=onedark&row=1&column=6&margin-w=10&margin-h=10"
+       alt="GitHub Profile Trophies" />
+</p>
 
-</div>
+---
+
+## Cobrinha de contribuições
+
+<!-- Estes SVGs são gerados pelo workflow .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/micdog22/micdog22/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/micdog22/micdog22/output/snake-light.svg" />
+    <img alt="contribution snake"
+         src="https://raw.githubusercontent.com/micdog22/micdog22/output/snake.svg" />
+  </picture>
+</p>
 
 ---
 
