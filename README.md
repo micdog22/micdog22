@@ -106,13 +106,16 @@ MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, MongoDB.
        alt="Top Languages" />
 </p>
 
-<!-- Streak (funciona no README; clique abre em nova aba) -->
+<!-- Streak (PNG + dois hosts + cache-buster) -->
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=micdog22&theme=tokyonight">
-    <img
-      src="https://streak-stats.demolab.com?user=micdog22&theme=tokyonight&hide_border=true&card_width=560&v=3"
-      alt="GitHub Streak"
-    />
+    <picture>
+      <source srcset="https://streak-stats.demolab.com?user=micdog22&theme=tokyonight&hide_border=true&type=png&card_width=560&v=3" />
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=micdog22&theme=tokyonight&hide_border=true&type=png&card_width=560&v=3"
+        alt="GitHub Streak"
+      />
+    </picture>
   </a>
 </p>
 
