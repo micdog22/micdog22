@@ -1,0 +1,41 @@
+name: Cache GitHub Streak PNGs
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"     # a cada 12h
+  workflow_dispatch:           # permite rodar manual
+  push:
+    branches: [ "main", "master" ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      # Baixa versão dark
+      - name: Fetch dark streak
+        run: |
+          curl -sL "https://streak-stats.demolab.com?user=micdog22&theme=tokyonight&hide_border=true&type=png&card_width=560" \
+          -o assets/streak-dark.png
+
+      # Baixa versão light (tema default)
+      - name: Fetch light streak
+        run: |
+          curl -sL "https://streak-stats.demolab.com?user=micdog22&hide_border=true&type=png&card_width=560" \
+          -o assets/streak-light.png
+
+      # Commit no próprio branch main
+      - name: Commit updated PNGs
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "assets/streak-dark.png assets/streak-light.png"
+          message: "chore: update cached streak images"
+          default_author: github_actions
