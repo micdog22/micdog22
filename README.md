@@ -14,44 +14,51 @@
 </p>
 
 ## Sobre mim
-- Desenvolvedor full-stack com foco em produtos, APIs e integrações.
-- Experiência em Python/FastAPI, PHP/Laravel, C#/.NET (WinForms/WPF) e C++.
-- DevOps no dia a dia: VPS Linux, Nginx, PM2, systemd, Docker quando necessário.
-- Interesso-me por segurança de software, licenciamento e automação.
+Sou desenvolvedor full-stack com foco em construção de produtos, APIs, automações e desktop. Atuo de ponta a ponta: definição de arquitetura, desenvolvimento, implantação e observabilidade. 
 
 ## KeyAdmin
-Sou fundador do **KeyAdmin**, uma plataforma de licenças e ativação para softwares.  
-Principais recursos:
-- Geração, ativação, validação e banimento de licenças.
-- API para integração (endpoints como `ativar.php`, `validar.php`, `reset_hwid.php`, entre outros) com autenticação por `cliente_hash` e `api_key`.
-- Painel web para gestão de softwares, chaves, relatórios e automações.
-- Integrações frequentes com bots do Discord e loaders de desktop.
+Fundador do **KeyAdmin**, plataforma de licenciamento para softwares.
+- Geração, ativação, validação, reset de HWID e banimento de licenças.
+- API com autenticação por `cliente_hash` e `api_key`.
+- Painel para gestão de softwares, chaves, relatórios e integrações.
+- Integração prática com bots de Discord e aplicações desktop.
 
-Se quiser integrar seu app ao KeyAdmin, entre em contato.
+## Especialidades
+- **Sistemas Windows & baixo nível:** C/C++ para utilitários e drivers; automações com WMI/WinHTTP; embaladores e loaders.
+- **Segurança e licenciamento:** arquitetura de verificação, proteção básica contra abuso, integrações KeyAdmin/KeyAuth.
+- **Spoofer/otimizadores:** criação de ferramentas de tuning e manutenção; foco em desempenho para jogos.
+- **Web & SaaS:** APIs REST/JSON, autenticação, filas e webhooks; páginas de alta conversão e dashboards.
+- **Integrações e automação:** n8n, webhooks, PM2, systemd, CI/CD básico.
+- **E-commerce:** conectores e fluxos para marketplaces; rotas de callback e renovação de tokens.
+- **Dados:** modelagem e acesso a bancos relacionais e não-relacionais.
 
----
-
-## Tecnologias
+## Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,cs,dotnet,cpp,js,ts,nodejs,react,tailwind,nginx,linux,docker,mysql,mongodb,redis,git,githubactions&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,cs,dotnet,cpp,js,ts,nodejs,react,tailwind,nginx,linux,docker,redis,git,githubactions&perline=10" />
 </p>
+
+### Bancos de dados
+MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, MongoDB.
+
+### Ferramentas e plataformas
+n8n, PM2, systemd, Nginx, Docker, SquareCloud, Hostinger VPS, PHPMailer/SMTP, OAuth, AWS SigV4 quando necessário.
 
 ---
 
 ## Stats
-
 <div align="center">
 
-<!-- Stats -->
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=micdog22&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-<!-- Top Langs -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micdog22&layout=compact&theme=tokyonight&hide=css,scss,cmake" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micdog22&layout=compact&theme=tokyonight&hide=css,scss,cmake&langs_count=8" alt="Top Languages" />
 
-<!-- Streak (corrigido) -->
+<!-- Streak com fallback (corrige falha de imagem em alguns cenários) -->
 <br/>
-<img height="160" src="https://streak-stats.demolab.com?user=micdog22&theme=tokyonight" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=micdog22&theme=tokyonight&hide_border=false" />
+  <img height="160" src="https://streak-stats.demolab.com?user=micdog22&hide_border=false" alt="GitHub Streak" />
+</picture>
 
-<!-- Trophies (corrigido) -->
+<!-- Trophies -->
 <br/>
 <img height="120" src="https://github-profile-trophy.vercel.app/?username=micdog22&theme=onedark&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Profile Trophies" />
 
@@ -60,13 +67,11 @@ Se quiser integrar seu app ao KeyAdmin, entre em contato.
 ---
 
 ## Projetos em destaque
-- **Discord-KeyAdmin-Bot**: bot em Python para gestão de licenças via KeyAdmin (slash commands, logs e PM2).
-- **Integrações e-commerce**: APIs e webhooks para marketplaces (autenticação, tokens, estoque e anúncios).
-- **Ferramentas Windows**: utilitários em C#/.NET e C++ com WMI, licenciamento e UI de painel.
-
----
+- **Discord-KeyAdmin-Bot** — bot em Python para gerenciar licenças via KeyAdmin (slash commands, logs, PM2).
+- **Integrações de marketplaces** — serviços com autenticação, webhooks e gerenciamento de tokens.
+- **Ferramentas Windows** — utilitários em C#/.NET e C++ com foco em desempenho, manutenção e automação.
 
 ## Contato
-- Site: https://micdog.com.br  
-- E-mail: micdogmel@gmail.com  
-- Discord: discord.gg/kodava
+Site: https://micdog.com.br  
+E-mail: micdogmel@gmail.com  
+Discord: discord.gg/kodava
