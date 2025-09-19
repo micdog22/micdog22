@@ -1,0 +1,38 @@
+name: Generate snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"           # todo dia 03:00 UTC
+  workflow_dispatch:              # permite rodar manual
+  push:
+    branches: [ "main", "master" ]
+
+permissions:
+  contents: write                 # publica no branch output
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: micdog22
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
