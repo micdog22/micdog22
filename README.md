@@ -77,8 +77,20 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 <summary><strong>Infra e DevOps</strong></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nginx,linux,docker,git,githubactions,redis&perline=10" />
+  <img src="https://skillicons.dev/icons?i=
+  linux,ubuntu,debian,arch,alpine,redhat,centos,fedora,opensuse,rockylinux,raspberrypi,freebsd,openbsd,netbsd,windows,cmd,bash,powershell,zsh,
+  git,github,githubactions,gitlab,bitbucket,jenkins,circleci,travis,azuredevops,
+  docker,podman,kubernetes,helm,openshift,nomad,consul,vagrant,virtualbox,vmware,
+  nginx,apache,caddy,traefik,haproxy,
+  terraform,pulumi,ansible,chef,puppet,packer,
+  aws,azure,gcp,cloudflare,vercel,netlify,heroku,firebase,digitalocean,openstack,oracle,render,railway,supabase,flyio,
+  grafana,prometheus,loki,tempo,jaeger,opentelemetry,datadog,newrelic,sentry,elastic,kibana,logstash,graylog,vector,
+  rabbitmq,kafka,activemq,nats,redis,memcached,
+  postgres,mysql,mariadb,sqlite,mongodb,cassandra,couchdb,neo4j,elasticsearch,clickhouse,duckdb,tidb,scylladb,
+  vault,keycloak,okta,oauth,letsencrypt,sonarqube,artifactory,nexus,harbor,argo,argocd,flux
+  &perline=22" />
 </p>
+
 
 Ferramentas: PM2, systemd, Nginx, Docker, SquareCloud, Hostinger VPS, PHPMailer/SMTP, OAuth, AWS SigV4 quando necessário.
 </details>
