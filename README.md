@@ -80,13 +80,24 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,redhat,raspberrypi,windows,bash,powershell,git,github,gitlab,bitbucket,githubactions,jenkins,aws,azure,gcp,cloudflare,vercel,netlify,heroku,digitalocean,firebase,supabase,docker,kubernetes,nginx,terraform,ansible,grafana,prometheus,sentry,elasticsearch,postgres,mysql,sqlite,mongodb,redis,rabbitmq,kafka,openstack&perline=22" />
 </p>
 
-Ferramentas: PM2, systemd, Nginx, Docker, SquareCloud, Hostinger VPS, PHPMailer/SMTP, OAuth, AWS SigV4 quando necessário.
 </details>
 
 <details open>
 <summary><strong>Bancos de dados</strong></summary>
 
-MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, MongoDB.
+**Relacionais:** MySQL/MariaDB, PostgreSQL, SQL Server, SQLite  
+**Documentos:** MongoDB, CouchDB, Firestore (básico)  
+**Chave-valor / NoSQL:** Redis (KV/Streams), DynamoDB (conceitos)  
+**Colunar / OLAP:** ClickHouse, DuckDB, BigQuery (conceitos)  
+**Grafos:** Neo4j  
+**Time-series:** InfluxDB, TimescaleDB  
+**Busca & Analytics:** Elasticsearch / OpenSearch
+
+**Camada de acesso e migrações:**  
+- PHP: PDO, Eloquent (Laravel), Doctrine (básico)  
+- Python: SQLAlchemy, Alembic, psycopg2  
+- Node: Prisma, Knex, TypeORM  
+- .NET: Entity Framework Core, Dapper
 </details>
 
 ---
