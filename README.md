@@ -68,8 +68,9 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 <summary><strong>Stacks principais</strong></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,angular,php,laravel,c,cpp,cs,js,ts,nodejs,react,tailwind,html,java,css,ruby&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts,go,rust,ruby,php,kotlin,swift,dart,scala,r,julia,haskell,elixir,erlang,clojure,ocaml,zig,nim,lua,bash,powershell,perl,crystal,solidity,wasm,objectivec,matlab,fortran,v,coffeescript,elm,haxe,groovy,fsharp,reason,deno,bun&perline=22" />
 </p>
+
 </details>
 
 <details open>
