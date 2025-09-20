@@ -2,26 +2,31 @@ name: Generate summary cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # roda todo dia 03:00 UTC
+    - cron: "0 3 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # << permite commitar no repo
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: micdog22
           BRANCH: main
+          # Se quiser tema diferente, troque "transparent" abaixo no README
           CONFIG: |
             {
-              "languages": {"hide": ["Jupyter Notebook"]},
-              "commits": {"count_private": true, "include_all_commits": true},
+              "templates": ["transparent"],
               "output": "profile-summary-card-output",
-              "templates": ["transparent"]
+              "commits": { "include_all_commits": true, "count_private": true }
             }
       - name: Commit generated files
         run: |
