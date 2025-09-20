@@ -53,10 +53,10 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 
 ## Especialidades
 - **Windows / baixo nível:** utilitários e **drivers em C/C++**, WMI/WinHTTP, automações e loaders.
-- **Performance:** **spoofer** e **otimizadores** com foco em jogos.
+- **Performance:** spoofer e otimizadores com foco em jogos.
 - **Segurança e licenciamento:** KeyAdmin/KeyAuth, proteção anti-abuso.
 - **Web & SaaS:** APIs REST/JSON, filas, webhooks, autenticação e dashboards.
-- **Automação e integrações:** **n8n**, PM2, systemd, CI/CD básico.
+- **Automação e integrações:** n8n, PM2, systemd, CI/CD básico.
 - **E-commerce:** conectores para marketplaces (OAuth, tokens, estoque/anúncios).
 - **Dados:** modelagem e acesso a bancos relacionais e não relacionais (SQL e NoSQL).
 
@@ -100,19 +100,21 @@ MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, MongoDB.
 
 ## Estatísticas
 
+<!-- Summary Cards geradas pelo workflow (atualiza diariamente) -->
 <p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=micdog22&show_icons=true&theme=tokyonight&count_private=true"
-       alt="GitHub Stats" />
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=micdog22&layout=compact&theme=tokyonight&hide=css,scss,cmake&langs_count=8"
-       alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/micdog22/micdog22/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" height="160" />
+  <img src="https://raw.githubusercontent.com/micdog22/micdog22/main/profile-summary-card-output/transparent/3-stats.svg" alt="Stats" height="160" />
+  <img src="https://raw.githubusercontent.com/micdog22/micdog22/main/profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most Commit Language" height="160" />
 </p>
 
+<!-- Cards do github-readme-stats (com parâmetro v para forçar refresh manual quando quiser) -->
 <p align="center">
-  <img height="120"
-       src="https://github-profile-trophy.vercel.app/?username=micdog22&theme=onedark&row=1&column=6&margin-w=10&margin-h=10"
-       alt="GitHub Profile Trophies" />
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api?username=micdog22&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&v=1"
+       alt="GitHub Stats (Vercel)" />
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=micdog22&layout=compact&hide=css,scss,cmake&langs_count=8&theme=tokyonight&v=1"
+       alt="Top Languages (Vercel)" />
 </p>
 
 ---
@@ -121,12 +123,9 @@ MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, MongoDB.
 <!-- SVGs gerados pelo workflow .github/workflows/snake.yml -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/micdog22/micdog22/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/micdog22/micdog22/output/snake-light.svg" />
-    <img alt="contribution snake"
-         src="https://raw.githubusercontent.com/micdog22/micdog22/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/micdog22/micdog22/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/micdog22/micdog22/output/snake-light.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/micdog22/micdog22/output/snake.svg" />
   </picture>
 </p>
 
