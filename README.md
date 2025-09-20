@@ -77,12 +77,8 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 <summary><strong>Infra e DevOps</strong></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,alpine,arch,redhat,raspberrypi,freebsd,windows,bash,powershell,zsh,git,github,gitlab,bitbucket,githubactions,jenkins,circleci,travis,aws,azure,gcp,cloudflare,vercel,netlify,heroku,digitalocean,firebase,supabase,docker,kubernetes,helm,nginx,apache,traefik,caddy,terraform,ansible,puppet,packer,vagrant,consul,nomad,grafana,prometheus,loki,jaeger,sentry,datadog,newrelic,elasticsearch,kibana,logstash,postgres,mysql,mariadb,sqlite,mongodb,cassandra,couchdb,neo4j,clickhouse,redis,rabbitmq,kafka,keycloak,vault,argocd,flux,openstack&perline=22" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,redhat,raspberrypi,windows,bash,powershell,git,github,gitlab,bitbucket,githubactions,jenkins,circleci,travis,aws,azure,gcp,cloudflare,vercel,netlify,heroku,digitalocean,firebase,supabase,docker,kubernetes,helm,nginx,apache,traefik,caddy,terraform,ansible,puppet,packer,vagrant,consul,nomad,grafana,prometheus,loki,jaeger,sentry,datadog,newrelic,elasticsearch,kibana,logstash,postgres,mysql,mariadb,sqlite,mongodb,redis,rabbitmq,kafka,openstack&perline=22" />
 </p>
-
-
-
-
 
 Ferramentas: PM2, systemd, Nginx, Docker, SquareCloud, Hostinger VPS, PHPMailer/SMTP, OAuth, AWS SigV4 quando necessário.
 </details>
