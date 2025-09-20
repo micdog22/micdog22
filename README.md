@@ -86,9 +86,9 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 <summary><strong>Bancos de dados</strong></summary>
 
 **Relacionais:** MySQL/MariaDB, PostgreSQL, SQL Server, SQLite  
-**Documentos:** MongoDB, CouchDB, Firestore (básico)  
-**Chave-valor / NoSQL:** Redis (KV/Streams), DynamoDB (conceitos)  
-**Colunar / OLAP:** ClickHouse, DuckDB, BigQuery (conceitos)  
+**Documentos:** MongoDB, CouchDB, Firestore
+**Chave-valor / NoSQL:** Redis (KV/Streams), DynamoDB
+**Colunar / OLAP:** ClickHouse, DuckDB, BigQuery
 **Grafos:** Neo4j  
 **Time-series:** InfluxDB, TimescaleDB  
 **Busca & Analytics:** Elasticsearch / OpenSearch
