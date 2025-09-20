@@ -77,8 +77,9 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 <summary><strong>Infra e DevOps</strong></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,alpine,arch,redhat,fedora,opensuse,raspberrypi,freebsd,windows,bash,powershell,zsh,git,github,gitlab,bitbucket,githubactions,jenkins,circleci,travis,azure,aws,gcp,cloudflare,vercel,netlify,heroku,digitalocean,firebase,supabase,docker,podman,kubernetes,helm,nginx,apache,traefik,caddy,terraform,ansible,puppet,packer,vagrant,consul,nomad,grafana,prometheus,loki,tempo,jaeger,sentry,datadog,newrelic,elasticsearch,kibana,logstash,graylog,vector,postgres,mysql,mariadb,sqlite,mongodb,cassandra,couchdb,neo4j,clickhouse,redis,memcached,rabbitmq,kafka,nats,keycloak,vault,argo,argocd,flux,openstack&perline=22" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,alpine,arch,redhat,raspberrypi,freebsd,windows,bash,powershell,zsh,git,github,gitlab,bitbucket,githubactions,jenkins,circleci,travis,aws,azure,gcp,cloudflare,vercel,netlify,heroku,digitalocean,firebase,supabase,docker,kubernetes,helm,nginx,apache,traefik,caddy,terraform,ansible,puppet,packer,vagrant,consul,nomad,grafana,prometheus,loki,jaeger,sentry,datadog,newrelic,elasticsearch,kibana,logstash,postgres,mysql,mariadb,sqlite,mongodb,cassandra,couchdb,neo4j,clickhouse,redis,rabbitmq,kafka,keycloak,vault,argocd,flux,openstack&perline=22" />
 </p>
+
 
 
 
