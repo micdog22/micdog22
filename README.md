@@ -102,8 +102,8 @@ MySQL/MariaDB, PostgreSQL, SQL Server, SQLite, MongoDB.
 
 <!-- Summary Cards geradas pelo workflow (atualiza diariamente) -->
 <p align="center">
-  <!--<img src="https://raw.githubusercontent.com/micdog22/micdog22/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" height="160" />
-  <img src="https://raw.githubusercontent.com/micdog22/micdog22/main/profile-summary-card-output/transparent/3-stats.svg" alt="Stats" height="160" />
+  <img src="https://raw.githubusercontent.com/micdog22/micdog22/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" height="160" />
+  <!--<img src="https://raw.githubusercontent.com/micdog22/micdog22/main/profile-summary-card-output/transparent/3-stats.svg" alt="Stats" height="160" />
   <img src="https://raw.githubusercontent.com/micdog22/micdog22/main/profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most Commit Language" height="160" />-->
 </p>
 
