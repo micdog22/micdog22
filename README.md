@@ -77,7 +77,7 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 <summary><strong>Infra e DevOps</strong></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,redhat,raspberrypi,windows,bash,powershell,git,github,gitlab,bitbucket,githubactions,jenkins,aws,azure,gcp,cloudflare,vercel,netlify,heroku,digitalocean,firebase,supabase,docker,kubernetes,nginx,terraform,ansible,grafana,prometheus,loki,jaeger,sentry,datadog,newrelic,elasticsearch,kibana,logstash,postgres,mysql,mariadb,sqlite,mongodb,redis,rabbitmq,kafka,openstack&perline=22" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,redhat,raspberrypi,windows,bash,powershell,git,github,gitlab,bitbucket,githubactions,jenkins,aws,azure,gcp,cloudflare,vercel,netlify,heroku,digitalocean,firebase,supabase,docker,kubernetes,nginx,terraform,ansible,grafana,prometheus,sentry,elasticsearch,postgres,mysql,mariadb,sqlite,mongodb,redis,rabbitmq,kafka,openstack&perline=22" />
 </p>
 
 Ferramentas: PM2, systemd, Nginx, Docker, SquareCloud, Hostinger VPS, PHPMailer/SMTP, OAuth, AWS SigV4 quando necessário.
