@@ -103,10 +103,10 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 ---
 
 ## Projetos em destaque
-- **Discord-KeyAdmin-Bot** — bot em Python para gerenciar licenças via KeyAdmin (slash commands, logs, PM2).
-- **Discord-KeyAuth-Bot** — bot administrativo para KeyAuth.
-- **Integrações de Marketplaces** — serviços que cuidam de OAuth, webhooks e gerenciamento de tokens.
-- **Ferramentas Windows** — utilitários de diagnóstico, otimização e automação em C#/.NET e C++.
+- **Discord-KeyAdmin-Bot** - bot em Python para gerenciar licenças via KeyAdmin (slash commands, logs, PM2).
+- **Discord-KeyAuth-Bot** - bot administrativo para KeyAuth.
+- **Integrações de Marketplaces** - serviços que cuidam de OAuth, webhooks e gerenciamento de tokens.
+- **Ferramentas Windows** - utilitários de diagnóstico, otimização e automação em C#/.NET e C++.
 
 ---
 
