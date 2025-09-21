@@ -13,44 +13,67 @@
   <br/>
 
   <!-- BADGES -->
-<p align="center" style="margin-top:8px;">
-  <!-- LINKEDIN (SVG INLINE, sem dependências externas) -->
+<!-- BOTÕES SOCIAIS (HTML + SVG inline, sem shields, sem sublinhado) -->
+<div align="center" style="margin-top:10px;">
+  <!-- Estilo base para todos os botões -->
   <a href="https://www.linkedin.com/in/michael-douglas-091b21334/"
-     style="display:inline-block;text-decoration:none;line-height:0;margin:0 6px 6px 0;">
-    <svg width="130" height="28" viewBox="0 0 130 28" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LinkedIn badge">
-      <!-- fundo -->
-      <rect x="0" y="0" width="130" height="28" rx="6" fill="#0A66C2"/>
-      <!-- “in” (logo simples, branco) -->
-      <text x="16" y="18" font-size="14" font-weight="700" font-family="Inter, Arial, sans-serif" fill="#FFFFFF">in</text>
-      <!-- texto -->
-      <text x="44" y="18" font-size="13" font-weight="600" font-family="Inter, Arial, sans-serif" fill="#FFFFFF">LinkedIn</text>
-      <!-- opcional: ícone redondo ao redor do “in” -->
-      <rect x="8" y="6" width="24" height="16" rx="4" fill="rgba(255,255,255,0.18)"/>
+     style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
+            background:#0A66C2;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
+    <!-- LinkedIn -->
+    <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+      <rect width="24" height="24" rx="4" fill="#ffffff22"></rect>
+      <path fill="#fff" d="M6.5 9h3v9h-3V9zm1.5-4c.97 0 1.75.78 1.75 1.75S8.97 8.5 8 8.5 6.25 7.72 6.25 6.75 6.53 5 8 5zM12 9h2.86v1.24h.04c.4-.76 1.38-1.56 2.84-1.56 3.03 0 3.59 1.99 3.59 4.58V18h-3v-3.7c0-.88-.02-2.02-1.23-2.02-1.24 0-1.43.96-1.43 1.95V18h-3V9z"/>
     </svg>
+    LinkedIn
   </a>
 
-  <!-- DEMAIS BADGES -->
-  <a href="https://instagram.com/micdog22" style="text-decoration:none;line-height:0;margin:0 6px 6px 0;display:inline-block;">
-    <img alt="Instagram"
-         src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-         style="vertical-align:middle;border:0;">
+  <a href="https://instagram.com/micdog22"
+     style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
+            background:#E4405F;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
+    <!-- Instagram -->
+    <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+      <rect x="2" y="2" width="20" height="20" rx="5" fill="#ffffff22"></rect>
+      <circle cx="12" cy="12" r="4.2" fill="none" stroke="#fff" stroke-width="2"/>
+      <circle cx="17.2" cy="6.8" r="1.4" fill="#fff"/>
+    </svg>
+    Instagram
   </a>
-  <a href="https://micdog.com.br" style="text-decoration:none;line-height:0;margin:0 6px 6px 0;display:inline-block;">
-    <img alt="Website"
-         src="https://img.shields.io/badge/-Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white"
-         style="vertical-align:middle;border:0;">
+
+  <a href="https://micdog.com.br"
+     style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
+            background:#1F2937;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
+    <!-- Website (globo) -->
+    <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+      <circle cx="12" cy="12" r="9" fill="#ffffff22"></circle>
+      <path fill="none" stroke="#fff" stroke-width="2"
+            d="M3 12h18M12 3c3 3.5 3 14 0 18M12 3c-3 3.5-3 14 0 18M5 7a16 16 0 0 0 14 0M5 17a16 16 0 0 1 14 0"/>
+    </svg>
+    Website
   </a>
-  <a href="mailto:micdogmel@gmail.com" style="text-decoration:none;line-height:0;margin:0 6px 6px 0;display:inline-block;">
-    <img alt="Gmail"
-         src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         style="vertical-align:middle;border:0;">
+
+  <a href="mailto:micdogmel@gmail.com"
+     style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
+            background:#D14836;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
+    <!-- Gmail -->
+    <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+      <rect x="2" y="5" width="20" height="14" rx="2" fill="#ffffff22"></rect>
+      <path fill="#fff" d="M4 8.2V7l8 5 8-5v1.2l-8 5-8-5z"/>
+    </svg>
+    Gmail
   </a>
-  <a href="https://keyadmin.online" style="text-decoration:none;line-height:0;margin:0 0 6px 0;display:inline-block;">
-    <img alt="KeyAdmin"
-         src="https://img.shields.io/badge/-KeyAdmin-0F766E?style=for-the-badge&logo=keepassxc&logoColor=white"
-         style="vertical-align:middle;border:0;">
+
+  <a href="https://keyadmin.online"
+     style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 0 8px 0;border-radius:8px;
+            background:#0F766E;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
+    <!-- Key (KeyAdmin) -->
+    <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+      <circle cx="9" cy="12" r="3" fill="#fff"/>
+      <path fill="#fff" d="M12 12h10v2h-2v2h-2v-2h-4.5a5 5 0 1 0-1.5-2z"/>
+    </svg>
+    KeyAdmin
   </a>
-</p>
+</div>
+
 
 </div>
 
