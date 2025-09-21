@@ -12,6 +12,10 @@
 
   <br/>
 
+
+
+</div>
+
   <!-- BADGES -->
 <!-- BOTÕES SOCIAIS (HTML + SVG inline, sem shields, sem sublinhado) -->
 <div align="center" style="margin-top:10px;">
@@ -72,9 +76,6 @@
     </svg>
     KeyAdmin
   </a>
-</div>
-
-
 </div>
 
 ---
