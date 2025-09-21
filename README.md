@@ -8,13 +8,40 @@
     <img alt="headline animada" src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+automa%C3%A7%C3%A3o" />
   </picture>
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/michael-douglas-091b21334/"><svg width="126" height="32" viewBox="0 0 126 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LinkedIn"><rect x="0" y="0" width="126" height="32" rx="8" fill="#0A66C2"/><rect x="8" y="7" width="18" height="18" rx="4" fill="#ffffff22"/><path fill="#fff" d="M18.7,13.2h3V22h-3v-8.8ZM20.2,10c1,0,1.8,0.8,1.8,1.8s-0.8,1.8-1.8,1.8-1.8-0.8-1.8-1.8S19.2,10,20.2,10ZM26,13.2h2.9v1.3h0c0.4-0.8,1.4-1.6,2.9-1.6c3.1,0,3.7,2,3.7,4.6V22h-3v-3.7c0-0.9,0-2-1.3-2c-1.3,0-1.4,1-1.4,2V22H26V13.2z"/><text x="44" y="20" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff">LinkedIn</text></svg></a>
-    <a href="https://instagram.com/micdog22"><svg width="126" height="32" viewBox="0 0 126 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Instagram"><rect x="0" y="0" width="126" height="32" rx="8" fill="#E4405F"/><rect x="8" y="7" width="18" height="18" rx="5" fill="#ffffff22"/><circle cx="17" cy="16" r="4.2" fill="none" stroke="#fff" stroke-width="2"/><circle cx="21.5" cy="11.5" r="1.4" fill="#fff"/><text x="44" y="20" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff">Instagram</text></svg></a>
-    <a href="https://micdog.com.br"><svg width="126" height="32" viewBox="0 0 126 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Website"><rect x="0" y="0" width="126" height="32" rx="8" fill="#1F2937"/><circle cx="17" cy="16" r="9" fill="#ffffff22"/><path fill="none" stroke="#fff" stroke-width="2" d="M8,16h18 M17,7c3,3.5,3,14,0,18 M17,7c-3,3.5-3,14,0,18 M10.5,11a16,16 0 0,0 13,0 M10.5,21a16,16 0 0,1 13,0"/><text x="44" y="20" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff">Website</text></svg></a>
-    <a href="mailto:micdogmel@gmail.com"><svg width="126" height="32" viewBox="0 0 126 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gmail"><rect x="0" y="0" width="126" height="32" rx="8" fill="#D14836"/><rect x="8" y="7" width="18" height="18" rx="2" fill="#ffffff22"/><path fill="#fff" d="M10,12.2V11l8,5 8-5v1.2l-8,5 -8-5z"/><text x="44" y="20" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff">Gmail</text></svg></a>
-    <a href="https://keyadmin.online"><svg width="126" height="32" viewBox="0 0 126 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="KeyAdmin"><rect x="0" y="0" width="126" height="32" rx="8" fill="#0F766E"/><circle cx="17" cy="16" r="3.5" fill="#fff"/><path fill="#fff" d="M21,16h14v2h-3v2h-2v-2h-6.2A5.5,5.5,0,1,0,21,16z"/><text x="44" y="20" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff">KeyAdmin</text></svg></a>
-  </div>
+<div align="center">
+
+  <!-- Badges de redes -->
+  <a href="https://www.linkedin.com/in/michael-douglas-091b21334/">
+    <img alt="LinkedIn" 
+         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/micdog22">
+    <img alt="Instagram" 
+         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://micdog.com.br">
+    <img alt="Website" 
+         src="https://img.shields.io/badge/Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="mailto:micdogmel@gmail.com">
+    <img alt="Gmail" 
+         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://keyadmin.online">
+    <img alt="KeyAdmin" 
+         src="https://img.shields.io/badge/KeyAdmin-0F766E?style=for-the-badge&logo=shield&logoColor=white">
+  </a>
+
+  <!-- Se tiver Twitch, descomente e ajuste o link -->
+  <!--
+  <a href="https://twitch.tv/SEU_USUARIO">
+    <img alt="Twitch" 
+         src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+  -->
+
+</div>
+
 </div>
 
 
