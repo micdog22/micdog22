@@ -16,25 +16,26 @@
 <p>
   <a href="https://www.linkedin.com/in/michael-douglas-091b21334/">
     <img alt="LinkedIn"
-         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+         src="https://img.shields.io/badge/LinkedIn-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/micdog22">
     <img alt="Instagram"
-         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+         src="https://img.shields.io/badge/Instagram-%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://micdog.com.br">
     <img alt="Website"
-         src="https://img.shields.io/badge/Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white">
+         src="https://img.shields.io/badge/Website-%20-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="mailto:micdogmel@gmail.com">
     <img alt="Gmail"
-         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+         src="https://img.shields.io/badge/Gmail-%20-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://keyadmin.online">
-    <img alt="🔑 KeyAdmin"
-         src="https://img.shields.io/badge/%F0%9F%94%91%20KeyAdmin-0F766E?style=for-the-badge&logoColor=white">
+    <img alt="KeyAdmin"
+         src="https://img.shields.io/badge/%F0%9F%94%91%20KeyAdmin-%20-0F766E?style=for-the-badge&logoColor=white">
   </a>
 </p>
+
 </div>
 
 ---
