@@ -12,14 +12,21 @@
 
   <br/>
 
+  <!-- BADGES -->
+  <a href="https://www.linkedin.com/in/michael-douglas-091b21334/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Michael%20Douglas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/micdog22">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@micdog22-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
   <a href="https://micdog.com.br">
-    <img alt="Website" src="https://img.shields.io/badge/Website-micdog.com.br-111827?style=for-the-badge">
+    <img alt="Website" src="https://img.shields.io/badge/Website-micdog.com.br-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="mailto:micdogmel@gmail.com">
-    <img alt="E-mail" src="https://img.shields.io/badge/Contato-micdogmel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-micdogmel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://keyadmin.online">
-    <img alt="KeyAdmin" src="https://img.shields.io/badge/KeyAdmin-keyadmin.online-0f766e?style=for-the-badge">
+    <img alt="KeyAdmin" src="https://img.shields.io/badge/KeyAdmin-keyadmin.online-0F766E?style=for-the-badge">
   </a>
 </div>
 
@@ -86,9 +93,9 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 <summary><strong>Bancos de dados</strong></summary>
 
 **Relacionais:** MySQL/MariaDB, PostgreSQL, SQL Server, SQLite  
-**Documentos:** MongoDB, CouchDB, Firestore
-**Chave-valor / NoSQL:** Redis (KV/Streams), DynamoDB
-**Colunar / OLAP:** ClickHouse, DuckDB, BigQuery
+**Documentos:** MongoDB, CouchDB, Firestore  
+**Chave-valor / NoSQL:** Redis (KV/Streams), DynamoDB  
+**Colunar / OLAP:** ClickHouse, DuckDB, BigQuery  
 **Grafos:** Neo4j  
 **Time-series:** InfluxDB, TimescaleDB  
 **Busca & Analytics:** Elasticsearch / OpenSearch
@@ -103,23 +110,18 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 ---
 
 ## Projetos em destaque
-- **Discord-KeyAdmin-Bot** - bot em Python para gerenciar licenças via KeyAdmin (slash commands, logs, PM2).
-- **Discord-KeyAuth-Bot** - bot administrativo para KeyAuth.
-- **Integrações de Marketplaces** - serviços que cuidam de OAuth, webhooks e gerenciamento de tokens.
-- **Ferramentas Windows** - utilitários de diagnóstico, otimização e automação em C#/.NET e C++.
+- **Discord-KeyAdmin-Bot** – bot em Python para gerenciar licenças via KeyAdmin (slash commands, logs, PM2).
+- **Discord-KeyAuth-Bot** – bot administrativo para KeyAuth.
+- **Integrações de Marketplaces** – serviços que cuidam de OAuth, webhooks e gerenciamento de tokens.
+- **Ferramentas Windows** – utilitários de diagnóstico, otimização e automação em C#/.NET e C++.
 
 ---
 
 ## Estatísticas
-
-<!-- Summary Cards geradas pelo workflow (atualiza diariamente) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/micdog22/micdog22/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" height="160" />
-  <!--<img src="https://raw.githubusercontent.com/micdog22/micdog22/main/profile-summary-card-output/transparent/3-stats.svg" alt="Stats" height="160" />
-  <img src="https://raw.githubusercontent.com/micdog22/micdog22/main/profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Most Commit Language" height="160" />-->
 </p>
 
-<!-- Cards do github-readme-stats (com parâmetro v para forçar refresh manual quando quiser) -->
 <p align="center">
   <img height="150"
        src="https://github-readme-stats.vercel.app/api?username=micdog22&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&v=1"
@@ -132,7 +134,6 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 ---
 
 ## Cobrinha de contribuições
-<!-- SVGs gerados pelo workflow .github/workflows/snake.yml -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/micdog22/micdog22/output/snake-dark.svg" />
@@ -144,6 +145,8 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 ---
 
 ## Contato
-Site: https://micdog.com.br  
-KeyAdmin: https://keyadmin.online  
-E-mail: micdogmel@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Douglas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-douglas-091b21334/)
+[![Instagram](https://img.shields.io/badge/Instagram-@micdog22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/micdog22)
+[![Website](https://img.shields.io/badge/Website-micdog.com.br-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white)](https://micdog.com.br)
+[![Gmail](https://img.shields.io/badge/Gmail-micdogmel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micdogmel@gmail.com)
+[![KeyAdmin](https://img.shields.io/badge/KeyAdmin-keyadmin.online-0F766E?style=for-the-badge)](https://keyadmin.online)
