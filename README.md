@@ -13,31 +13,42 @@
   <br/>
 
   <!-- BADGES -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/michael-douglas-091b21334/" style="text-decoration:none;">
-    <img alt="LinkedIn"
-         src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&v=2"
-         style="vertical-align:middle;margin:0 6px 6px 0;border:0;">
+<p align="center" style="margin-top:8px;">
+  <!-- LINKEDIN (SVG INLINE, sem dependências externas) -->
+  <a href="https://www.linkedin.com/in/michael-douglas-091b21334/"
+     style="display:inline-block;text-decoration:none;line-height:0;margin:0 6px 6px 0;">
+    <svg width="130" height="28" viewBox="0 0 130 28" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LinkedIn badge">
+      <!-- fundo -->
+      <rect x="0" y="0" width="130" height="28" rx="6" fill="#0A66C2"/>
+      <!-- “in” (logo simples, branco) -->
+      <text x="16" y="18" font-size="14" font-weight="700" font-family="Inter, Arial, sans-serif" fill="#FFFFFF">in</text>
+      <!-- texto -->
+      <text x="44" y="18" font-size="13" font-weight="600" font-family="Inter, Arial, sans-serif" fill="#FFFFFF">LinkedIn</text>
+      <!-- opcional: ícone redondo ao redor do “in” -->
+      <rect x="8" y="6" width="24" height="16" rx="4" fill="rgba(255,255,255,0.18)"/>
+    </svg>
   </a>
-  <a href="https://instagram.com/micdog22" style="text-decoration:none;">
+
+  <!-- DEMAIS BADGES -->
+  <a href="https://instagram.com/micdog22" style="text-decoration:none;line-height:0;margin:0 6px 6px 0;display:inline-block;">
     <img alt="Instagram"
-         src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&v=2"
-         style="vertical-align:middle;margin:0 6px 6px 0;border:0;">
+         src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+         style="vertical-align:middle;border:0;">
   </a>
-  <a href="https://micdog.com.br" style="text-decoration:none;">
+  <a href="https://micdog.com.br" style="text-decoration:none;line-height:0;margin:0 6px 6px 0;display:inline-block;">
     <img alt="Website"
-         src="https://img.shields.io/badge/-Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white&v=2"
-         style="vertical-align:middle;margin:0 6px 6px 0;border:0;">
+         src="https://img.shields.io/badge/-Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white"
+         style="vertical-align:middle;border:0;">
   </a>
-  <a href="mailto:micdogmel@gmail.com" style="text-decoration:none;">
+  <a href="mailto:micdogmel@gmail.com" style="text-decoration:none;line-height:0;margin:0 6px 6px 0;display:inline-block;">
     <img alt="Gmail"
-         src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&v=2"
-         style="vertical-align:middle;margin:0 6px 6px 0;border:0;">
+         src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         style="vertical-align:middle;border:0;">
   </a>
-  <a href="https://keyadmin.online" style="text-decoration:none;">
+  <a href="https://keyadmin.online" style="text-decoration:none;line-height:0;margin:0 0 6px 0;display:inline-block;">
     <img alt="KeyAdmin"
-         src="https://img.shields.io/badge/-KeyAdmin-0F766E?style=for-the-badge&logo=keepassxc&logoColor=white&v=2"
-         style="vertical-align:middle;margin:0 0 6px 0;border:0;">
+         src="https://img.shields.io/badge/-KeyAdmin-0F766E?style=for-the-badge&logo=keepassxc&logoColor=white"
+         style="vertical-align:middle;border:0;">
   </a>
 </p>
 
