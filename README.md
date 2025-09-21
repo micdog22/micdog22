@@ -10,72 +10,65 @@
          src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+automa%C3%A7%C3%A3o" />
   </picture>
 
-  <br/>
+  <!-- BOTÕES SOCIAIS (HTML + SVG inline, sem shields, sem sublinhado) -->
+  <div style="margin-top:14px;">
+    <!-- LinkedIn (SVG inline para não ser bloqueado) -->
+    <a href="https://www.linkedin.com/in/michael-douglas-091b21334/"
+       style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
+              background:#0A66C2;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
+      <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+        <rect width="24" height="24" rx="4" fill="#ffffff22"></rect>
+        <path fill="#fff" d="M6.5 9h3v9h-3V9zm1.5-4c.97 0 1.75.78 1.75 1.75S8.97 8.5 8 8.5 6.25 7.72 6.25 6.75 6.53 5 8 5zM12 9h2.86v1.24h.04c.4-.76 1.38-1.56 2.84-1.56 3.03 0 3.59 1.99 3.59 4.58V18h-3v-3.7c0-.88-.02-2.02-1.23-2.02-1.24 0-1.43.96-1.43 1.95V18h-3V9z"/>
+      </svg>
+      LinkedIn
+    </a>
 
-
-
-</div>
-
-  <!-- BADGES -->
-<!-- BOTÕES SOCIAIS (HTML + SVG inline, sem shields, sem sublinhado) -->
-<div align="center" style="margin-top:10px;">
-  <!-- Estilo base para todos os botões -->
-  <a href="https://www.linkedin.com/in/michael-douglas-091b21334/"
-     style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
-            background:#0A66C2;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
-    <!-- LinkedIn -->
-    <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
-      <rect width="24" height="24" rx="4" fill="#ffffff22"></rect>
-      <path fill="#fff" d="M6.5 9h3v9h-3V9zm1.5-4c.97 0 1.75.78 1.75 1.75S8.97 8.5 8 8.5 6.25 7.72 6.25 6.75 6.53 5 8 5zM12 9h2.86v1.24h.04c.4-.76 1.38-1.56 2.84-1.56 3.03 0 3.59 1.99 3.59 4.58V18h-3v-3.7c0-.88-.02-2.02-1.23-2.02-1.24 0-1.43.96-1.43 1.95V18h-3V9z"/>
-    </svg>
-    LinkedIn
-  </a>
-
-  <a href="https://instagram.com/micdog22"
-     style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
-            background:#E4405F;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
     <!-- Instagram -->
-    <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
-      <rect x="2" y="2" width="20" height="20" rx="5" fill="#ffffff22"></rect>
-      <circle cx="12" cy="12" r="4.2" fill="none" stroke="#fff" stroke-width="2"/>
-      <circle cx="17.2" cy="6.8" r="1.4" fill="#fff"/>
-    </svg>
-    Instagram
-  </a>
+    <a href="https://instagram.com/micdog22"
+       style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
+              background:#E4405F;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
+      <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+        <rect x="2" y="2" width="20" height="20" rx="5" fill="#ffffff22"></rect>
+        <circle cx="12" cy="12" r="4.2" fill="none" stroke="#fff" stroke-width="2"/>
+        <circle cx="17.2" cy="6.8" r="1.4" fill="#fff"/>
+      </svg>
+      Instagram
+    </a>
 
-  <a href="https://micdog.com.br"
-     style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
-            background:#1F2937;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
-    <!-- Website (globo) -->
-    <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
-      <circle cx="12" cy="12" r="9" fill="#ffffff22"></circle>
-      <path fill="none" stroke="#fff" stroke-width="2"
-            d="M3 12h18M12 3c3 3.5 3 14 0 18M12 3c-3 3.5-3 14 0 18M5 7a16 16 0 0 0 14 0M5 17a16 16 0 0 1 14 0"/>
-    </svg>
-    Website
-  </a>
+    <!-- Website -->
+    <a href="https://micdog.com.br"
+       style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
+              background:#1F2937;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
+      <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+        <circle cx="12" cy="12" r="9" fill="#ffffff22"></circle>
+        <path fill="none" stroke="#fff" stroke-width="2"
+              d="M3 12h18M12 3c3 3.5 3 14 0 18M12 3c-3 3.5-3 14 0 18M5 7a16 16 0 0 0 14 0M5 17a16 16 0 0 1 14 0"/>
+      </svg>
+      Website
+    </a>
 
-  <a href="mailto:micdogmel@gmail.com"
-     style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
-            background:#D14836;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
     <!-- Gmail -->
-    <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
-      <rect x="2" y="5" width="20" height="14" rx="2" fill="#ffffff22"></rect>
-      <path fill="#fff" d="M4 8.2V7l8 5 8-5v1.2l-8 5-8-5z"/>
-    </svg>
-    Gmail
-  </a>
+    <a href="mailto:micdogmel@gmail.com"
+       style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
+              background:#D14836;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
+      <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+        <rect x="2" y="5" width="20" height="14" rx="2" fill="#ffffff22"></rect>
+        <path fill="#fff" d="M4 8.2V7l8 5 8-5v1.2l-8 5-8-5z"/>
+      </svg>
+      Gmail
+    </a>
 
-  <a href="https://keyadmin.online"
-     style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 0 8px 0;border-radius:8px;
-            background:#0F766E;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
-    <!-- Key (KeyAdmin) -->
-    <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
-      <circle cx="9" cy="12" r="3" fill="#fff"/>
-      <path fill="#fff" d="M12 12h10v2h-2v2h-2v-2h-4.5a5 5 0 1 0-1.5-2z"/>
-    </svg>
-    KeyAdmin
-  </a>
+    <!-- KeyAdmin -->
+    <a href="https://keyadmin.online"
+       style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 0 8px 0;border-radius:8px;
+              background:#0F766E;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
+      <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
+        <circle cx="9" cy="12" r="3" fill="#fff"/>
+        <path fill="#fff" d="M12 12h10v2h-2v2h-2v-2h-4.5a5 5 0 1 0-1.5-2z"/>
+      </svg>
+      KeyAdmin
+    </a>
+  </div>
 </div>
 
 ---
@@ -111,7 +104,7 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 - **Performance:** spoofer e otimizadores com foco em jogos.
 - **Segurança e licenciamento:** KeyAdmin/KeyAuth, proteção anti-abuso.
 - **Web & SaaS:** APIs REST/JSON, filas, webhooks, autenticação e dashboards.
-- **Automação e integrações:** n8n, PM2, systemd, CI/CD básico.
+- **Automação e integrações:** n8n, PM2, systemd, CI/CD.
 - **E-commerce:** conectores para marketplaces (OAuth, tokens, estoque/anúncios).
 - **Dados:** modelagem e acesso a bancos relacionais e não relacionais (SQL e NoSQL).
 
@@ -149,7 +142,7 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 **Busca & Analytics:** Elasticsearch / OpenSearch
 
 **Camada de acesso e migrações:**  
-- PHP: PDO, Eloquent (Laravel), Doctrine (básico)  
+- PHP: PDO, Eloquent (Laravel), Doctrine 
 - Python: SQLAlchemy, Alembic, psycopg2  
 - Node: Prisma, Knex, TypeORM  
 - .NET: Entity Framework Core, Dapper
@@ -193,8 +186,8 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 ---
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20Douglas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-douglas-091b21334/)
-[![Instagram](https://img.shields.io/badge/Instagram-@micdog22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/micdog22)
-[![Website](https://img.shields.io/badge/Website-micdog.com.br-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white)](https://micdog.com.br)
-[![Gmail](https://img.shields.io/badge/Gmail-micdogmel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micdogmel@gmail.com)
-[![KeyAdmin](https://img.shields.io/badge/KeyAdmin-keyadmin.online-0F766E?style=for-the-badge)](https://keyadmin.online)
+- Site: https://micdog.com.br  
+- KeyAdmin: https://keyadmin.online  
+- E-mail: micdogmel@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/michael-douglas-091b21334/  
+- Instagram: https://instagram.com/micdog22
