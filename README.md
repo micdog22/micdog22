@@ -10,65 +10,61 @@
          src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+automa%C3%A7%C3%A3o" />
   </picture>
 
-  <!-- BOTÕES SOCIAIS (HTML + SVG inline, sem shields, sem sublinhado) -->
-  <div style="margin-top:14px;">
-    <!-- LinkedIn (SVG inline para não ser bloqueado) -->
-    <a href="https://www.linkedin.com/in/michael-douglas-091b21334/"
-       style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
-              background:#0A66C2;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
-      <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
-        <rect width="24" height="24" rx="4" fill="#ffffff22"></rect>
-        <path fill="#fff" d="M6.5 9h3v9h-3V9zm1.5-4c.97 0 1.75.78 1.75 1.75S8.97 8.5 8 8.5 6.25 7.72 6.25 6.75 6.53 5 8 5zM12 9h2.86v1.24h.04c.4-.76 1.38-1.56 2.84-1.56 3.03 0 3.59 1.99 3.59 4.58V18h-3v-3.7c0-.88-.02-2.02-1.23-2.02-1.24 0-1.43.96-1.43 1.95V18h-3V9z"/>
+  <!-- BOTÕES SOCIAIS (SVG inline; sem estilos externos) -->
+  <p align="center">
+
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/michael-douglas-091b21334/">
+      <svg width="126" height="32" viewBox="0 0 126 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LinkedIn">
+        <rect x="0" y="0" width="126" height="32" rx="8" fill="#0A66C2"/>
+        <rect x="8" y="7" width="18" height="18" rx="4" fill="#ffffff22"/>
+        <path fill="#fff" d="M18.7,13.2h3V22h-3v-8.8ZM20.2,10c1,0,1.8,0.8,1.8,1.8s-0.8,1.8-1.8,1.8-1.8-0.8-1.8-1.8S19.2,10,20.2,10ZM26,13.2h2.9v1.3h0c0.4-0.8,1.4-1.6,2.9-1.6c3.1,0,3.7,2,3.7,4.6V22h-3v-3.7c0-0.9,0-2-1.3-2c-1.3,0-1.4,1-1.4,2V22H26V13.2z"/>
+        <text x="44" y="20" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff">LinkedIn</text>
       </svg>
-      LinkedIn
-    </a>
+    </a>&nbsp;
 
     <!-- Instagram -->
-    <a href="https://instagram.com/micdog22"
-       style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
-              background:#E4405F;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
-      <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
-        <rect x="2" y="2" width="20" height="20" rx="5" fill="#ffffff22"></rect>
-        <circle cx="12" cy="12" r="4.2" fill="none" stroke="#fff" stroke-width="2"/>
-        <circle cx="17.2" cy="6.8" r="1.4" fill="#fff"/>
+    <a href="https://instagram.com/micdog22">
+      <svg width="126" height="32" viewBox="0 0 126 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Instagram">
+        <rect x="0" y="0" width="126" height="32" rx="8" fill="#E4405F"/>
+        <rect x="8" y="7" width="18" height="18" rx="5" fill="#ffffff22"/>
+        <circle cx="17" cy="16" r="4.2" fill="none" stroke="#fff" stroke-width="2"/>
+        <circle cx="21.5" cy="11.5" r="1.4" fill="#fff"/>
+        <text x="44" y="20" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff">Instagram</text>
       </svg>
-      Instagram
-    </a>
+    </a>&nbsp;
 
     <!-- Website -->
-    <a href="https://micdog.com.br"
-       style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
-              background:#1F2937;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
-      <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
-        <circle cx="12" cy="12" r="9" fill="#ffffff22"></circle>
-        <path fill="none" stroke="#fff" stroke-width="2"
-              d="M3 12h18M12 3c3 3.5 3 14 0 18M12 3c-3 3.5-3 14 0 18M5 7a16 16 0 0 0 14 0M5 17a16 16 0 0 1 14 0"/>
+    <a href="https://micdog.com.br">
+      <svg width="126" height="32" viewBox="0 0 126 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Website">
+        <rect x="0" y="0" width="126" height="32" rx="8" fill="#1F2937"/>
+        <circle cx="17" cy="16" r="9" fill="#ffffff22"/>
+        <path fill="none" stroke="#fff" stroke-width="2" d="M8,16h18 M17,7c3,3.5,3,14,0,18 M17,7c-3,3.5-3,14,0,18 M10.5,11a16,16 0 0,0 13,0 M10.5,21a16,16 0 0,1 13,0"/>
+        <text x="44" y="20" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff">Website</text>
       </svg>
-      Website
-    </a>
+    </a>&nbsp;
 
     <!-- Gmail -->
-    <a href="mailto:micdogmel@gmail.com"
-       style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 6px 8px 0;border-radius:8px;
-              background:#D14836;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
-      <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
-        <rect x="2" y="5" width="20" height="14" rx="2" fill="#ffffff22"></rect>
-        <path fill="#fff" d="M4 8.2V7l8 5 8-5v1.2l-8 5-8-5z"/>
+    <a href="mailto:micdogmel@gmail.com">
+      <svg width="126" height="32" viewBox="0 0 126 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gmail">
+        <rect x="0" y="0" width="126" height="32" rx="8" fill="#D14836"/>
+        <rect x="8" y="7" width="18" height="18" rx="2" fill="#ffffff22"/>
+        <path fill="#fff" d="M10,12.2V11l8,5 8-5v1.2l-8,5 -8-5z"/>
+        <text x="44" y="20" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff">Gmail</text>
       </svg>
-      Gmail
-    </a>
+    </a>&nbsp;
 
     <!-- KeyAdmin -->
-    <a href="https://keyadmin.online"
-       style="display:inline-flex;align-items:center;gap:8px;padding:8px 12px;margin:0 0 8px 0;border-radius:8px;
-              background:#0F766E;color:#fff;text-decoration:none;font:600 12px/1.1 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;">
-      <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true">
-        <circle cx="9" cy="12" r="3" fill="#fff"/>
-        <path fill="#fff" d="M12 12h10v2h-2v2h-2v-2h-4.5a5 5 0 1 0-1.5-2z"/>
+    <a href="https://keyadmin.online">
+      <svg width="126" height="32" viewBox="0 0 126 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="KeyAdmin">
+        <rect x="0" y="0" width="126" height="32" rx="8" fill="#0F766E"/>
+        <circle cx="17" cy="16" r="3.5" fill="#fff"/>
+        <path fill="#fff" d="M21,16h14v2h-3v2h-2v-2h-6.2A5.5,5.5,0,1,0,21,16z"/>
+        <text x="44" y="20" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" fill="#fff">KeyAdmin</text>
       </svg>
-      KeyAdmin
     </a>
-  </div>
+
+  </p>
 </div>
 
 ---
