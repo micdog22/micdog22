@@ -13,27 +13,31 @@
   <br/>
 
   <!-- BADGES -->
-<!-- BADGES (apenas títulos, ícone + cor certa em um bloco só) -->
-<p>
-  <a href="https://www.linkedin.com/in/michael-douglas-091b21334/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/michael-douglas-091b21334/" style="text-decoration:none;">
     <img alt="LinkedIn"
-         src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+         src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&v=2"
+         style="vertical-align:middle;margin:0 6px 6px 0;border:0;">
   </a>
-  <a href="https://instagram.com/micdog22">
+  <a href="https://instagram.com/micdog22" style="text-decoration:none;">
     <img alt="Instagram"
-         src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+         src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&v=2"
+         style="vertical-align:middle;margin:0 6px 6px 0;border:0;">
   </a>
-  <a href="https://micdog.com.br">
+  <a href="https://micdog.com.br" style="text-decoration:none;">
     <img alt="Website"
-         src="https://img.shields.io/badge/-Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white">
+         src="https://img.shields.io/badge/-Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white&v=2"
+         style="vertical-align:middle;margin:0 6px 6px 0;border:0;">
   </a>
-  <a href="mailto:micdogmel@gmail.com">
+  <a href="mailto:micdogmel@gmail.com" style="text-decoration:none;">
     <img alt="Gmail"
-         src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+         src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&v=2"
+         style="vertical-align:middle;margin:0 6px 6px 0;border:0;">
   </a>
-  <a href="https://keyadmin.online">
+  <a href="https://keyadmin.online" style="text-decoration:none;">
     <img alt="KeyAdmin"
-         src="https://img.shields.io/badge/-KeyAdmin-0F766E?style=for-the-badge&logo=keepassxc&logoColor=white">
+         src="https://img.shields.io/badge/-KeyAdmin-0F766E?style=for-the-badge&logo=keepassxc&logoColor=white&v=2"
+         style="vertical-align:middle;margin:0 0 6px 0;border:0;">
   </a>
 </p>
 
