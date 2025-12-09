@@ -4,8 +4,8 @@
   <p>Desenvolvedor full-stack • Fundador do KeyAdmin • Sistemas Windows, APIs e automação</p>
 
   <picture>
-    <source srcset="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+automa%C3%A7%C3%A3o;Drivers+em+C%2FC%2B%2B%2C+spoofer+e+otimizadores+para+Windows;SaaS+com+Python%2FFastAPI+e+PHP%2FLaravel;Integra%C3%A7%C3%B5es+com+marketplaces%2C+n8n+e+servi%C3%A7os+web" />
-    <img alt="headline animada" src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+automa%C3%A7%C3%A3o" />
+    <source srcset="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+autom%C3%A7%C3%A3o;Drivers+em+C%2FC%2B%2B%2C+spoofer+e+otimizadores+para+Windows;SaaS+com+Python%2FFastAPI+e+PHP%2FLaravel;Integra%C3%A7%C3%B5es+com+marketplaces%2C+n8n+e+servi%C3%A7os+web" />
+    <img alt="headline animada" src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+autom%C3%A7%C3%A3o" />
   </picture>
 
 <div align="center">
@@ -41,6 +41,7 @@
 ## Sumário
 - [Sobre mim](#sobre-mim)
 - [KeyAdmin](#keyadmin)
+- [Clyver](#clyver)
 - [Especialidades](#especialidades)
 - [Stack e ferramentas](#stack-e-ferramentas)
 - [Projetos em destaque](#projetos-em-destaque)
@@ -61,6 +62,15 @@ Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e a
 - API autenticada por `cliente_hash` e `api_key`.
 - Painel web para gestão de softwares, chaves e relatórios.
 - Integrações diretas com aplicações desktop e bots.
+
+---
+
+## Clyver
+Desenvolvedor principal da **[Clyver](https://clyver.com.br)**, plataforma SaaS de gestão de anúncios e operação em marketplaces.
+- Centralização de anúncios em múltiplos marketplaces (Mercado Livre, Magalu, Shopee, Amazon, etc.).
+- Publicação em massa, sincronização de estoque e preços.
+- Relatórios e automações para operação de e-commerce.
+- APIs e serviços de back-end para integrações com outros sistemas.
 
 ---
 
