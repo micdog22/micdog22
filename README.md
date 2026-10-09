@@ -1,168 +1,31 @@
-<!-- HEADER -->
-<div align="center">
-  <h1>Michael Douglas (MicDog)</h1>
-  <p>Desenvolvedor full-stack • Fundador do KeyAdmin • Sistemas Windows, APIs e automação</p>
+# Michael Douglas
 
-  <picture>
-    <source srcset="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+autom%C3%A7%C3%A3o;Drivers+em+C%2FC%2B%2B%2C+spoofer+e+otimizadores+para+Windows;SaaS+com+Python%2FFastAPI+e+PHP%2FLaravel;Integra%C3%A7%C3%B5es+com+marketplaces%2C+n8n+e+servi%C3%A7os+web" />
-    <img alt="headline animada" src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=4000&pause=900&center=true&vCenter=true&width=780&lines=Full-stack+focado+em+produtos%2C+APIs+e+autom%C3%A7%C3%A3o" />
-  </picture>
+Dev full-stack. Construo produtos de ponta a ponta, do banco de dados ao deploy.
 
-<div align="center">
+[micdog.com.br](https://micdog.com.br) · [LinkedIn](https://www.linkedin.com/in/michael-douglas-091b21334/) · [Instagram](https://instagram.com/micdog22) · [E-mail](mailto:micdogmel@gmail.com)
 
-  <!-- Badges de redes -->
-  <a href="https://www.linkedin.com/in/michael-douglas-091b21334/">
-    <img alt="LinkedIn" 
-         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/micdog22">
-    <img alt="Instagram" 
-         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://micdog.com.br">
-    <img alt="Website" 
-         src="https://img.shields.io/badge/Website-1F2937?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="mailto:micdogmel@gmail.com">
-    <img alt="Gmail" 
-         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://keyadmin.online">
-    <img alt="KeyAdmin" 
-         src="https://img.shields.io/badge/KeyAdmin-0F766E?style=for-the-badge&logo=shield&logoColor=white">
-  </a>
+### Projetos
 
-</div>
+<!-- Uma linha por projeto. Descrições de até ~80 caracteres mantêm a tabela sem quebra de linha no desktop. -->
 
-</div>
+| Projeto | O que é |
+| :-- | :-- |
+| **[Clyver](https://clyver.com.br)** | Anúncios, estoque, preços e atendimento de vários marketplaces num painel só |
+| **[Giff Tech](https://gifftech.com)** | Infra white label de crédito de importação para FIDCs, com a carga como garantia |
+| **[PALUMI](https://palumi.com.br)** | Aprenda idiomas conversando por voz com tutores de IA que corrigem na hora |
+| **[Data Reset](https://assine.datareset.com.br)** | Assinatura que monitora o que aparece sobre seu nome ou CNPJ e cuida da remoção |
+| **[REMAVE](https://remave.com.br)** | EZ ERP: NF-e, ordens de serviço e estoque de uma rede de peças para caminhões |
+| **Zero Hero** | RPG idle/clicker 2D para Android e iOS, feito em Unity. Em desenvolvimento |
 
----
+Também: [Orcepta](https://orcepta.com) · [micdog.cloud](https://micdog.cloud)
 
-## Sumário
-- [Sobre mim](#sobre-mim)
-- [KeyAdmin](#keyadmin)
-- [Clyver](#clyver)
-- [Especialidades](#especialidades)
-- [Stack e ferramentas](#stack-e-ferramentas)
-- [Projetos em destaque](#projetos-em-destaque)
-- [Estatísticas](#estatísticas)
-- [Cobrinha de contribuições](#cobrinha-de-contribuições)
-- [Contato](#contato)
+### Stack
 
----
+<!-- Os ícones acompanham o tema claro/escuro do GitHub via prefers-color-scheme; a tag img é o fallback.
+     Para mudar a stack, edite a lista "i=" nas três URLs. IDs válidos em skillicons.dev -->
 
-## Sobre mim
-Desenvolvedor full-stack com atuação em back-end, desktop/Windows e automações. Entrego produto de ponta a ponta: arquitetura, implementação, deploy e observabilidade.
-
----
-
-## KeyAdmin
-Fundador do **[KeyAdmin](https://keyadmin.online)**, plataforma de licenças e ativação para softwares.
-- Geração, ativação, validação, reset de HWID e banimento.
-- API autenticada por `cliente_hash` e `api_key`.
-- Painel web para gestão de softwares, chaves e relatórios.
-- Integrações diretas com aplicações desktop e bots.
-
----
-
-## Clyver
-Desenvolvedor principal da **[Clyver](https://clyver.com.br)**, plataforma SaaS de gestão de anúncios e operação em marketplaces.
-- Centralização de anúncios em múltiplos marketplaces (Mercado Livre, Magalu, Shopee, Amazon, etc.).
-- Publicação em massa, sincronização de estoque e preços.
-- Relatórios e automações para operação de e-commerce.
-- APIs e serviços de back-end para integrações com outros sistemas.
-
----
-
-## Especialidades
-- **Windows / baixo nível:** utilitários e **drivers em C/C++**, WMI/WinHTTP, automações e loaders.
-- **Performance:** spoofer e otimizadores com foco em jogos.
-- **Segurança e licenciamento:** KeyAdmin/KeyAuth, proteção anti-abuso.
-- **Web & SaaS:** APIs REST/JSON, filas, webhooks, autenticação e dashboards.
-- **Automação e integrações:** n8n, PM2, systemd, CI/CD.
-- **E-commerce:** conectores para marketplaces (OAuth, tokens, estoque/anúncios).
-- **Dados:** modelagem e acesso a bancos relacionais e não relacionais (SQL e NoSQL).
-
----
-
-## Stack e ferramentas
-
-<details open>
-<summary><strong>Stacks principais</strong></summary>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts,go,rust,ruby,php,kotlin,swift,dart,scala,r,julia,haskell,elixir,clojure,ocaml,zig,nim,lua,bash,powershell,perl,crystal,solidity,wasm,fortran,v,coffeescript,haxe,deno,bun&perline=22" />
-</p>
-
-</details>
-
-<details open>
-<summary><strong>Infra e DevOps</strong></summary>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,redhat,raspberrypi,windows,bash,powershell,git,github,gitlab,bitbucket,githubactions,jenkins,aws,azure,gcp,cloudflare,vercel,netlify,heroku,digitalocean,firebase,supabase,docker,kubernetes,nginx,terraform,ansible,grafana,prometheus,sentry,elasticsearch,postgres,mysql,sqlite,mongodb,redis,rabbitmq,kafka,openstack&perline=22" />
-</p>
-
-</details>
-
-<details open>
-<summary><strong>Bancos de dados</strong></summary>
-
-**Relacionais:** MySQL/MariaDB, PostgreSQL, SQL Server, SQLite  
-**Documentos:** MongoDB, CouchDB, Firestore  
-**Chave-valor / NoSQL:** Redis (KV/Streams), DynamoDB  
-**Colunar / OLAP:** ClickHouse, DuckDB, BigQuery  
-**Grafos:** Neo4j  
-**Time-series:** InfluxDB, TimescaleDB  
-**Busca & Analytics:** Elasticsearch / OpenSearch
-
-**Camada de acesso e migrações:**  
-- PHP: PDO, Eloquent (Laravel), Doctrine 
-- Python: SQLAlchemy, Alembic, psycopg2  
-- Node: Prisma, Knex, TypeORM  
-- .NET: Entity Framework Core, Dapper
-</details>
-
----
-
-## Projetos em destaque
-- **Discord-KeyAdmin-Bot** – bot em Python para gerenciar licenças via KeyAdmin (slash commands, logs, PM2).
-- **Discord-KeyAuth-Bot** – bot administrativo para KeyAuth.
-- **Integrações de Marketplaces** – serviços que cuidam de OAuth, webhooks e gerenciamento de tokens.
-- **Ferramentas Windows** – utilitários de diagnóstico, otimização e automação em C#/.NET e C++.
-
----
-
-## Estatísticas
-<p align="center">
-  <img src="https://raw.githubusercontent.com/micdog22/micdog22/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" height="160" />
-</p>
-
-<p align="center">
-  <img height="150"
-       src="https://github-readme-stats.vercel.app/api?username=micdog22&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&v=1"
-       alt="GitHub Stats (Vercel)" />
-  <img height="150"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=micdog22&layout=compact&hide=css,scss,cmake&langs_count=8&theme=tokyonight&v=1"
-       alt="Top Languages (Vercel)" />
-</p>
-
----
-
-## Cobrinha de contribuições
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/micdog22/micdog22/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/micdog22/micdog22/output/snake-light.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/micdog22/micdog22/output/snake.svg" />
-  </picture>
-</p>
-
----
-
-## Contato
-- Site: https://micdog.com.br  
-- KeyAdmin: https://keyadmin.online  
-- E-mail: micdogmel@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/michael-douglas-091b21334/  
-- Instagram: https://instagram.com/micdog22
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,ts,nextjs,react,tailwind,php,mongodb,postgres,mysql,redis,nginx,unity&theme=dark&perline=13">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,fastapi,ts,nextjs,react,tailwind,php,mongodb,postgres,mysql,redis,nginx,unity&theme=light&perline=13">
+  <img alt="Python, FastAPI, TypeScript, Next.js, React, Tailwind, PHP, MongoDB, PostgreSQL, MySQL, Redis, Nginx, Unity" src="https://skillicons.dev/icons?i=py,fastapi,ts,nextjs,react,tailwind,php,mongodb,postgres,mysql,redis,nginx,unity&perline=13">
+</picture>
