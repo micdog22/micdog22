@@ -22,7 +22,7 @@
 
 Desenvolvedor full-stack que gosta de pegar uma ideia e entregar produto rodando em produção: arquitetura, código, deploy e observabilidade. Transito entre o baixo nível no Windows, com drivers, spoofer e ferramentas em C/C++, e a web, com APIs em Python e painéis em Next.js.
 
-- Fundador da **[Clyver](https://clyver.com.br)** e criador do **[Orcepta](https://orcepta.com)**
+- CTO da **[Clyver](https://clyver.com.br)** e criador do **[Orcepta](https://orcepta.com)**
 - Construindo o **Zero Hero**, um RPG idle para mobile feito em Unity
 - Curto integrar sistemas: marketplaces, SEFAZ, gateways de pagamento, WhatsApp e n8n
 - Do driver em C++ ao painel em Next.js, sem medo de nenhuma camada
